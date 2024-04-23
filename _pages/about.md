@@ -23,15 +23,14 @@ My past researches mainly focus on model compression and acceleration for large 
 
 📝 Publications
 ------
-+ [ENLSP NeurIPS Workshop 2023] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang. [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
++ [Arxiv'24] **A Survey on Efficient Inference for Large Language Models**. Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang. <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
 + [Arxiv'24] **Evaluating Quantized Large Language Models**. Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang. <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
-    
-🌎 Visitors Map
-------
-> Only trying this for fun 🤣
++ [ENLSP NeurIPS Workshop 2023] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang. [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
+
+
 
 <!-- The 2D map -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script>
+<!--<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script> -->
 
 <!-- The simplified 3D globe -->
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=53skcjd1my4&amp;m=0&amp;c=ff0000&amp;cr1=ffffff" async="async"></script> -->
