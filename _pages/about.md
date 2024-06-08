@@ -13,7 +13,7 @@ I'm currently a senior student at the Department of Electronic Engineering, Tsin
 📖 Research
 ------
 My past researches mainly focus on model compression and acceleration for large language models.
-+ [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='https://nicsefc.ee.tsinghua.edu.cn/'>[Website]</a> 
++ [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='http://nics-effalg.com'>[Website]</a> 
 + [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
 
 💻 Internship
