@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior student at the Department of Electronic Engineering, Tsinghua University. And I'm going to attend the University of Michigan on 24-fall, where I would pursue a master's degree at the Department of Electrical and Computer Engineering.
+I’m Luning Wang (王麓宁）, a M.S. student at the Department of Electrical and Computer Engineering, University of Michigan. 
+
+Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of Electronic Engineering, Tsinghua University.
 
 📖 Research
 ------
-My past researches mainly focus on model compression and acceleration for large language models.
+I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
+
 + [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='http://nics-effalg.com'>[Website]</a> 
 + [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
+
+I’m planning to do research on multimodal models and diffusion models in biomedical AI, as a master student at U-Mich. 
+
+I'm actively looking for research and internship opportunities！
 
 💻 Internship
 ------
