@@ -19,7 +19,7 @@ I mainly focused on the efficient algorithms of large language models in my past
 + [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='http://nics-effalg.com'>[Website]</a> 
 + [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
 
-I’m planning to do research on multimodal models and diffusion models in biomedical AI, as a master student at U-Mich. 
+I'm planning to do research on multimodal models and diffusion models, as a master student at U-Mich. 
 
 I'm actively looking for research and internship opportunities！
 
