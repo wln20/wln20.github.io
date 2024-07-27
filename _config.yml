@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Luning"
+  name             : "Luning Wang"
   avatar           : "profile.png"
   bio              : "Stay simple, stay naive."
-  location         : "Beijing, China"
-  employer         : "Tsinghua University"
+  location         : "Ann-Arbor, US"
+  employer         : "University of Michigan"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kvTOYG8AAAAJ"
   email            : "wangluning2@gmail.com"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Wang Luning"
   foursquare       :
   github           : "wln20"
   google_plus      :
@@ -102,8 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/wangluning/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
