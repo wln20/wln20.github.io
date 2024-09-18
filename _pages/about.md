@@ -30,9 +30,10 @@ I'm actively looking for research and internship opportunities！
 
 📝 Publications
 ------
-+ [Arxiv'24] **A Survey on Efficient Inference for Large Language Models**. Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang. <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
-+ [ICML 2024] **Evaluating Quantized Large Language Models**. Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang. <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
-+ [ENLSP NeurIPS Workshop 2023] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang. [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
++ [Arxiv'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
++ [Arxiv'24] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
++ [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
++ [ENLSP NeurIPS Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
 
 
 
