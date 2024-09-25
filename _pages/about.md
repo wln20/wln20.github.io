@@ -14,19 +14,24 @@ Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of 
 
 📖 Research
 ------
-I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
+I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. I’m now doing research on multimodal models and diffusion models.
+
+I’m actively looking for research cooperation opportunities in the field of LLMs, multimodal models, and any other AI-related fields！
+
+<!--I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
 
 + [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='http://nics-effalg.com'>[Website]</a> 
 + [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
-
 I'm planning to do research on multimodal models and diffusion models, as a master student at U-Mich. 
-
-I'm actively looking for research and internship opportunities！
+I'm actively looking for research and internship opportunities！-->
 
 💻 Internship
 ------
-+ [09/2023~01/2024] Bytedance Data-TnS, Algorithm intern. <a href='https://www.bytedance.com/'>[Website]</a>
-+ [02/2024~06/2024] Infinigence AI, Research intern. <a href='https://www.infini-ai.com/'>[Website]</a>
++ [07/2023~08/2023] HKU-IDS, Research Assisstant. <a href='https://datascience.hku.hk/'>[Website]</a>
++ [09/2023~01/2024] Bytedance Data-TnS, Algorithm Intern. <a href='https://www.bytedance.com/'>[Website]</a>
++ [02/2024~06/2024] Infinigence AI, Algorithm Research Intern. <a href='https://www.infini-ai.com/'>[Website]</a>
+
+I’m actively looking for internship opportunities in the field of LLMs, multimodal models, and any other AI-related fields！
 
 📝 Publications
 ------
