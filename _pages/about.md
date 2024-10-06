@@ -1,14 +1,16 @@
 ---
 permalink: /
 title: "Luning Wang's Page"
-excerpt: "Luning Wang's Page"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/t
   - /about.html
 ---
 
-I’m Luning Wang (王麓宁）, currently a M.S. student at the University of Michigan. Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of Electronic Engineering, Tsinghua University.
+I’m Luning Wang (王麓宁）, currently a M.S. student at the University of Michigan. 
+
+Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of Electronic Engineering, Tsinghua University.
 
 
 
