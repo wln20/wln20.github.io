@@ -1,22 +1,29 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Luning Wang's Page"
+excerpt: "Luning Wang's Page"
 author_profile: true
 redirect_from: 
   - /about/t
   - /about.html
 ---
 
-I’m Luning Wang (王麓宁）, a M.S. student at the Department of Electrical and Computer Engineering, University of Michigan. 
+I’m Luning Wang (王麓宁）, currently a M.S. student at the University of Michigan. Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of Electronic Engineering, Tsinghua University.
 
-Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of Electronic Engineering, Tsinghua University.
+
+
+
+🎓 Education
+------
++ [09/2020~06/2024] B.E. Department of Electronic Engineering, Tsinghua University
++ [08/2024~05/2026] M.S. Department of Electrical and Computer Engineering, University of Michigan
+
 
 📖 Research
 ------
-I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. I’m now doing research on multimodal models and diffusion models.
+I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. I’m now trying to get on the way of multimodal models and diffusion models. See the publication section to learn more about my works.
 
-I’m actively looking for research cooperation opportunities in the field of LLMs, multimodal models, and any other AI-related fields！
+I’m actively looking for research cooperation opportunities in the field of LLMs, multimodal models, and any other AI-related fields! 
 
 <!--I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
 
@@ -31,7 +38,10 @@ I'm actively looking for research and internship opportunities！-->
 + [09/2023~01/2024] Bytedance Data-TnS, Algorithm Intern. <a href='https://www.bytedance.com/'>[Website]</a>
 + [02/2024~06/2024] Infinigence AI, Algorithm Research Intern. <a href='https://www.infini-ai.com/'>[Website]</a>
 
-I’m actively looking for internship opportunities in the field of LLMs, multimodal models, and any other AI-related fields！
+I’m actively looking for intern opportunities in the field of LLMs, multimodal models, and any other AI-related fields!
+
+(Prospective: 2025 summer, full-time, remote or on-site. Positions in China or the United States are both applicable to me!)
+
 
 📝 Publications
 ------
@@ -40,6 +50,14 @@ I’m actively looking for internship opportunities in the field of LLMs, multim
 + [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
 + [ENLSP NeurIPS Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
 
+
+🌱 More about myself
+------
+During my leisure time, I love hanging out in the wild and travelling around. I'm really enthusiastic about exploring more places around the United States in the next two years! 
+
+I am a fan of fantasy and epic movies. *Lord of the Rings*, *Harry Potter* and *Pirates of the Caribbean* are some of my favourite masterpieces.
+
+Also, I've been an avid collector of antiques (especially ancient coins 🪙) for many years. I'm always attracted by things that have a sense of age!
 
 
 <!-- The 2D map -->
