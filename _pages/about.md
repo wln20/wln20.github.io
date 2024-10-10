@@ -13,8 +13,6 @@ I’m Luning Wang (王麓宁）, currently a M.S. student at the University of M
 Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of Electronic Engineering, Tsinghua University.
 
 
-
-
 🎓 Education
 ------
 + [09/2020~06/2024] B.E. Department of Electronic Engineering, Tsinghua University
@@ -23,9 +21,13 @@ Before joining U-Mich, I obtained my B.E. degree in 2024 from the Department of 
 
 📖 Research
 ------
-I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. I’m now trying to get on the way of multimodal models and diffusion models. See the publication section to learn more about my works.
+I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. I’m currently trying to get on the way of multimodal models and diffusion models. See my publications to learn more about my works.
 
-I’m actively looking for research cooperation opportunities in the field of LLMs, multimodal models, and any other AI-related fields! 
+I'm lucky to have been working with these groups:
+
++ [09/2022~06/2024] NICS-EFC, Tsinghua Univ. <a href="https://nicsefc.ee.tsinghua.edu.cn/">[website]</a>
+
+I’m open to research cooperation opportunities in the field of LLMs, Multimodal Models, and potentially other AI & Data-Science related fields! 
 
 <!--I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
 
@@ -36,26 +38,27 @@ I'm actively looking for research and internship opportunities！-->
 
 💻 Internship
 ------
+I have the honor to have been working in several organizations, including both academia and industry. See my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf">CV</a> for more details.
+
 + [07/2023~08/2023] HKU-IDS, Research Assisstant. <a href='https://datascience.hku.hk/'>[Website]</a>
-+ [09/2023~01/2024] Bytedance Data-TnS, Algorithm Intern. <a href='https://www.bytedance.com/'>[Website]</a>
++ [09/2023~01/2024] Bytedance Data-TnS, Algorithm Research Intern. <a href='https://www.bytedance.com/'>[Website]</a>
 + [02/2024~06/2024] Infinigence AI, Algorithm Research Intern. <a href='https://www.infini-ai.com/'>[Website]</a>
 
-I’m actively looking for intern opportunities in the field of LLMs, multimodal models, and any other AI-related fields!
+**I’m now actively looking for (research/engineering) intern opportunities in the field of LLMs, Multimodal Models, and potentially other AI & Data-Science related fields!** 
 
-(Prospective: 2025 summer, full-time, remote or on-site. Positions in China or the United States are both applicable to me!)
+- Prospective: 2025 summer (May ~ August), full-time, remote or on-site. Positions in China or the United States are both applicable. **Please contact me if there's an opportunity!**
 
 
 📝 Publications
 ------
-+ [Arxiv'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
-+ [Arxiv'24] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
++ [ENLSP NeurIPS Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
++ [(Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
 + [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
-+ [ENLSP NeurIPS Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* [<a href='https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM_MQ.pdf'>pdf</a>] [<a href='https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/LLM-MQ-poster.png'>poster</a>] 
-
++ [ENLSP NeurIPS Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F5c805adc-b555-499f-9882-5ca35ce674b5.pdf'>[pdf]</a> 
 
 🌱 More about myself
 ------
-During my leisure time, I love hanging out in the wild and travelling around. I'm really enthusiastic about exploring more places around the United States in the next two years! 
+During my leisure time, I love hanging out in the wild and travelling around (in a casual way). I'm really enthusiastic about exploring more places around the United States in the next two years! 
 
 I am a fan of fantasy and epic movies. *Lord of the Rings*, *Harry Potter* and *Pirates of the Caribbean* are some of my favourite masterpieces.
 
