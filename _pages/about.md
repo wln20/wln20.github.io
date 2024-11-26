@@ -23,8 +23,6 @@ Hi! I'm Luning Wang (王麓宁), currently a first-year master student majored i
 ------
 I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. I’m currently trying to get on the way of multimodal models and diffusion models. See my <a href='#pub'>publications</a> to learn more about my work.
 
-I've been working in the following labs:
-
 + [09/2022~06/2024] NICS-EFC, Tsinghua Univ. <a href="https://nicsefc.ee.tsinghua.edu.cn/">[website]</a>
 
 I’m open to research cooperation opportunities in the field of LLMs, Multimodal Models, MLSys, and potentially other AI & Data-Science related fields.
@@ -36,9 +34,9 @@ I’m open to research cooperation opportunities in the field of LLMs, Multimoda
 I'm planning to do research on multimodal models and diffusion models, as a master student at U-Mich. 
 I'm actively looking for research and internship opportunities！-->
 
+<a id='intern'></a>
 💻 Internship
 ------
-<a id='intern'></a>
 
 I have been working in several organizations, including both academia and industry. See my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf">CV</a> for more details.
 
@@ -50,10 +48,9 @@ I have been working in several organizations, including both academia and indust
 
 - Prospective: 2025 summer (May ~ August), full-time, remote or on-site. Positions in China or the United States are both applicable. **Please contact me if there's an opportunity!**
 
-
+<a id='pub'></a>
 📝 Publications
 ------
-<a id='pub'></a>
 
 + [ENLSP NeurIPS Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
 + [(Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
