@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Luning's Page"
+title                    : "Luning's Page"
 title_separator          : "-"
-name                     : &name "Wang Luning"
-description              : &description "An undergraduate student at EE Department, Tsinghua Univ."
+name                     : &name "Luning Wang"
+description              : &description "A master's student at U-M."
 url                      : https://wln20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wln20/wln20.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luning Wang"
   avatar           : "profile.png"
-  bio              : "Stay simple, stay naive."
+  bio              : "A master's student at U-M"
   location         : "Ann-Arbor, US"
   employer         : "University of Michigan"
   pubmed           : 
