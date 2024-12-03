@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Luning Wang"
   avatar           : "profile.png"
-  bio              : "A master's student at U-M"
-  location         : "Ann-Arbor, US"
-  employer         : "University of Michigan"
+  bio              : ""
+  location         : ""
+  employer         : ""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kvTOYG8AAAAJ"
   email            : "wangluning2@gmail.com"
