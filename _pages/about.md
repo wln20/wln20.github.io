@@ -10,10 +10,6 @@ redirect_from:
 
 Hi! I'm Luning Wang (王麓宁), currently a first-year master student majored in electronic and computer engineering.
 
-**I’m now actively looking for (research/engineering) intern opportunities in the field of LLMs, MLSys, and potentially other AI & Data-Science related fields!** Please see my <a href='#intern'>internship</a> section for details.
-
-
-
 🎓 Education
 ------
 + [08/2024~05/2026] M.S. Department of Electrical and Computer Engineering, University of Michigan
@@ -31,18 +27,13 @@ I have been working in several organizations, including both academia and indust
 + [07/2023~08/2023] HKU-IDS, Research Assisstant. <a href='https://datascience.hku.hk/'>[Website]</a>
 
 
-**I’m now actively looking for (research/engineering) intern opportunities in the field of LLMs, MLSys, and potentially other AI & Data-Science related fields!** 
-
-- Prospective: 2025 summer (May ~ August), full-time, remote or on-site. Positions in China or the United States are both applicable. **Please contact me if there's an opportunity!**
-
-
 📖 Research
 ------
-I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. I’m currently trying to get on the way of multimodal models and diffusion models. See my <a href='#pub'>publications</a> to learn more about my work.
+I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. See my <a href='#pub'>publications</a> to learn more about my work.
 
 + [09/2022~06/2024] NICS-EFC, Tsinghua University. <a href="https://nicsefc.ee.tsinghua.edu.cn/">[website]</a>
 
-I’m open to research cooperation opportunities in the field of LLMs, Multimodal Models, MLSys, and potentially other AI & Data-Science related fields.
+I’m open to research cooperation opportunities in the field of LLMs, MLSys, and potentially other AI & Data-Science related fields.
 
 <!--I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
 
