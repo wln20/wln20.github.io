@@ -10,10 +10,12 @@ redirect_from:
 
 Hi! I'm Luning Wang (王麓宁), currently a first-year master student majored in electronic and computer engineering.
 
+**I’m now actively looking for research/engineering full time work opportunities in the field of LLMs, MLSys, and potentially other AI-related fields. I'm expected to graduate in 05/2026 and planning to work in China Mainland / Hong Kong / Singapore.** Feel free to contact with me via <a href='mailto:wangluning2@gmail.com'>Email</a> if there's an opportunity!
+
 🎓 Education
 ------
 + [08/2024~05/2026] M.S. Department of Electrical and Computer Engineering, University of Michigan
-+ [09/2020~06/2024] B.E. Department of Electronic Engineering, Tsinghua University
++ [09/2020~06/2024] B.Eng. Department of Electronic Engineering, Tsinghua University
 
 <a id='intern'></a>
 
@@ -33,7 +35,7 @@ I mainly focused on the efficient algorithms of large language models in my past
 
 + [09/2022~06/2024] NICS-EFC, Tsinghua University. <a href="https://nicsefc.ee.tsinghua.edu.cn/">[website]</a>
 
-I’m open to research cooperation opportunities in the field of LLMs, MLSys, and potentially other AI & Data-Science related fields.
+I’m open to cooperation in the field of LLMs, LLM Agents, MLSys, and potentially other AI & Data-Science related fields. Feel free to contact with me via <a href='mailto:wangluning2@gmail.com'>Email</a>!
 
 <!--I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
 
@@ -46,11 +48,15 @@ I'm actively looking for research and internship opportunities！-->
 
 📝 Publications
 ------
-
++ [ICLR'25] **Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts**. *Chenwei Wu\*, Zitao Shuai\*, Zhengxu Tang\*, **Luning Wang**, Liyue Shen.* <a href='https://openreview.net/pdf?id=NJxCpMt0sf'>[pdf]</a>
 + [ENLSP NeurIPS Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
-+ [(Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
++ [(Preprint, Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
 + [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
 + [ENLSP NeurIPS Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F5c805adc-b555-499f-9882-5ca35ce674b5.pdf'>[pdf]</a> 
+
+⚙️ Service
+------
++ [02/2025] Paper reviewer at the ICLR 2025 Workshop on Reasoning and Planning for LLMs.
 
 <!--🌱 More about myself
 ------
@@ -62,10 +68,6 @@ Also, I've been an avid collector of antiques (especially ancient coins 🪙) fo
 
 
 <!-- The 2D map -->
-<!--<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script> -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script>
 
-<!-- The simplified 3D globe -->
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/5.js?i=53skcjd1my4&amp;m=0&amp;c=ff0000&amp;cr1=ffffff" async="async"></script> -->
 
-<!-- The full 3D globe -->
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5j5canf0osm&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
