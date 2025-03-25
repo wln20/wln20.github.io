@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Luning Wang (王麓宁), currently a first-year master student majored in electronic and computer engineering.
+Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I got my Bachelor's degree at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>.
 
-**I’m now actively looking for research/engineering full time work opportunities in the field of LLMs, MLSys, and potentially other AI-related fields. I'm expected to graduate in 05/2026 and planning to work in China Mainland / Hong Kong / Singapore.** Feel free to contact with me via <a href='mailto:wangluning2@gmail.com'>Email</a> if there's an opportunity!
+**I’m now actively looking for research/engineering full time work opportunities in the field of LLMs, MLSys, and potentially other AI-related fields. I'm expected to graduate in 05/2026 and planning to work in Hong Kong / Singapore/ China Mainland.** Feel free to contact with me via <a href='mailto:wangluning2@gmail.com'>Email</a> if there's an opportunity!
 
 🎓 Education
 ------
@@ -35,24 +35,21 @@ I mainly focused on the efficient algorithms of large language models in my past
 
 + [09/2022~06/2024] NICS-EFC, Tsinghua University. <a href="https://nicsefc.ee.tsinghua.edu.cn/">[website]</a>
 
-I’m open to cooperation in the field of LLMs, LLM Agents, MLSys, and potentially other AI & Data-Science related fields. Feel free to contact with me via <a href='mailto:wangluning2@gmail.com'>Email</a>!
+Aside from that, I'm also working on MLSys, LLM reasoning, LLM agents, Biomedical LLMs, etc. 
 
-<!--I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs.
+I’m open to discussion and collaboration, like coopearting on academic papers or contributing to open source projects. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or send me a message on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
-+ [09/2022~06/2024] Nanoscale Integrated Circuits and System Lab, Energy Efficient Computing Group (NICS-EFC). <a href='http://nics-effalg.com'>[Website]</a> 
-+ [07/2023~08/2023] HKU Musketeers Foundation Institude of Data Science (HKU-IDS). <a href='https://datascience.hku.hk/'>[Website]</a>
-I'm planning to do research on multimodal models and diffusion models, as a master student at U-Mich. 
-I'm actively looking for research and internship opportunities！-->
 
 <a id='pub'></a>
 
 📝 Publications
 ------
++ [(Preprint, Under review)] **MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**. *Hsin-Ling Hsu\*, Cong-Tinh Dao\*, **Luning Wang**, Zitao Shuai, Thao Nguyen Minh Phan, Jun-En Ding, Chun-Chieh Liao, Pengfei Hu, Xiaoxue Han, Chih-Ho Hsu, Dongsheng Luo, Wen-Chih Peng, Feng Liu, Fang-Ming Hung, Chenwei Wu.* <a href='https://arxiv.org/pdf/2503.17900'>[pdf]<a>
 + [ICLR'25] **Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts**. *Chenwei Wu\*, Zitao Shuai\*, Zhengxu Tang\*, **Luning Wang**, Liyue Shen.* <a href='https://openreview.net/pdf?id=NJxCpMt0sf'>[pdf]</a>
-+ [ENLSP NeurIPS Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
++ [NeurIPS ENLSP Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
 + [(Preprint, Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a>
 + [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
-+ [ENLSP NeurIPS Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F5c805adc-b555-499f-9882-5ca35ce674b5.pdf'>[pdf]</a> 
++ [NeurIPS ENLSP Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F5c805adc-b555-499f-9882-5ca35ce674b5.pdf'>[pdf]</a> 
 
 ⚙️ Service
 ------
