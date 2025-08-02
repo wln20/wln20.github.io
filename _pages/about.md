@@ -45,10 +45,12 @@ I’m open to discussion and collaboration, like coopearting on academic papers 
 📝 Selected Publications
 ------
 Here are some of my representative works:
+
 <!--
 + [(Preprint, Under review)] **MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**. *Hsin-Ling Hsu\*, Cong-Tinh Dao\*, **Luning Wang**, Zitao Shuai, Thao Nguyen Minh Phan, Jun-En Ding, Chun-Chieh Liao, Pengfei Hu, Xiaoxue Han, Chih-Ho Hsu, Dongsheng Luo, Wen-Chih Peng, Feng Liu, Fang-Ming Hung, Chenwei Wu.* <a href='https://arxiv.org/pdf/2503.17900'>[pdf]<a>
 + [ICLR'25] **Dynamic Modeling of Patients, Modalities and Tasks via Multi-modal Multi-task Mixture of Experts**. *Chenwei Wu\*, Zitao Shuai\*, Zhengxu Tang\*, **Luning Wang**, Liyue Shen.* <a href='https://openreview.net/pdf?id=NJxCpMt0sf'>[pdf]</a>
-+ [(Preprint, Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a> -->
++ [(Preprint, Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a> 
+-->
 
 + [NeurIPS ENLSP Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
 + [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
