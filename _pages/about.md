@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I got my Bachelor's degree at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>.
 
-**I’m now actively looking for research/engineering full time work opportunities in the field of LLMs, MLSys, and potentially other AI-related fields. I'm expected to graduate in 05/2026 and planning to work in China Mainland or Hongkong or Singapore.** Feel free to contact with me via <a href='mailto:wangluning2@gmail.com'>Email</a> if there's an opportunity!
+**I’m now actively looking for full time work opportunities in the field of LLMs, MLSys, and potentially other AI-related fields. I'm expected to graduate in 05/2026 and planning to work in China Mainland or Hongkong or Singapore.** Feel free to contact with me via <a href='mailto:wangluning2@gmail.com'>Email</a> if there's an opportunity!
 
 🎓 Education
 ------
@@ -22,22 +22,22 @@ Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='ht
 💻 Internship
 ------
 
-I have been working in several organizations, including both academia and industry. See my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
+I've had several internship experiences. See my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
 
-+ [02/2024~06/2024] Infinigence AI, Algorithm Research Intern. <a href='https://www.infini-ai.com/'>[Website]</a>
-+ [09/2023~01/2024] Bytedance Data-TnS, Algorithm Research Intern. <a href='https://www.bytedance.com/'>[Website]</a>
-+ [07/2023~08/2023] HKU-IDS, Research Assisstant. <a href='https://datascience.hku.hk/'>[Website]</a>
++ [04/2025~08/2025] <a href='http://dev3.noahlab.com.hk/'>Huawei (Noah Ark's Lab)</a>, Machine Learning Engineer Intern.
++ [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, Machine Learning Research Intern.
++ [09/2023~01/2024] <a href='https://www.bytedance.com/'>Bytedance</a>, Machine Learning Engineer Intern.
 
 
 📖 Research
 ------
-I mainly focused on the efficient algorithms of large language models in my past research, including the compression and acceleration techniques of LLMs. 
+I mainly focused on infrastructure and efficiency optimization of Large Language Models (a.k.a AI-Infra / MLSys) in my past research, including the compression and acceleration techniques of LLMs. 
 
-+ [09/2022~06/2024] NICS-EFC, Tsinghua University. <a href="https://nicsefc.ee.tsinghua.edu.cn/">[website]</a>
++ [09/2022~06/2024] <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC, Tsinghua University</a>.
 
-Aside from that, I also have some experiences on MLSys, LLM agents, Biomedical LLMs, etc. 
+Aside from that, I also have some experiences on LLM reasoning, LLM agents, Biomedical LLMs, etc. 
 
-I’m open to discussion and collaboration, like coopearting on academic papers or contributing to open source projects. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or send me a message on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
+I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or send me a message on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
 
 <a id='pub'></a>
@@ -61,14 +61,6 @@ See my <a href='https://scholar.google.com/citations?user=kvTOYG8AAAAJ&hl=en'>Go
 ⚙️ Service
 ------
 + [02/2025] Paper reviewer at the ICLR 2025 Workshop on Reasoning and Planning for LLMs.
-
-<!--🌱 More about myself
-------
-During my leisure time, I love hanging out in the wild and travelling around (in a casual way). I'm really enthusiastic about exploring more places around the United States in the next two years! 
-
-I am a fan of fantasy and epic movies. *Lord of the Rings*, *Harry Potter* and *Pirates of the Caribbean* are some of my favourite masterpieces.
-
-Also, I've been an avid collector of antiques (especially ancient coins 🪙) for many years. I'm always attracted by things that have a sense of age!-->
 
 
 <!-- The 2D map -->
