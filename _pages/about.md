@@ -26,12 +26,12 @@ I've had several internship experiences. See my <a href="https://docs.google.com
 
 + [04/2025~08/2025] <a href='http://dev3.noahlab.com.hk/'>Huawei (Noah Ark's Lab)</a>, Machine Learning Engineer Intern.
 + [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, Machine Learning Research Intern.
-+ [09/2023~01/2024] <a href='https://www.bytedance.com/'>Bytedance</a>, Machine Learning Engineer Intern.
++ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, Machine Learning Engineer Intern.
 
 
 📖 Research
 ------
-I mainly focused on infrastructure and efficiency optimization of Large Language Models (a.k.a AI-Infra / MLSys) in my past research, including the compression and acceleration techniques of LLMs. 
+I mainly focused on infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past research, including the compression and acceleration techniques of LLMs. 
 
 + [09/2022~06/2024] <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC, Tsinghua University</a>.
 
@@ -60,7 +60,8 @@ See my <a href='https://scholar.google.com/citations?user=kvTOYG8AAAAJ&hl=en'>Go
 
 ⚙️ Service
 ------
-+ [02/2025] Paper reviewer at the ICLR 2025 Workshop on Reasoning and Planning for LLMs.
++ [09/2025~12/2025] Course grader for EECS-553 (Machine Learning) at University of Michigan.
++ [02/2025~03/2025] Paper reviewer at the ICLR 2025 Workshop on Reasoning and Planning for LLMs.
 
 
 <!-- The 2D map -->
