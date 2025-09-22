@@ -24,7 +24,7 @@ Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='ht
 
 I've had several internship experiences. See my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
 
-+ [04/2025~08/2025] <a href='http://dev3.noahlab.com.hk/'>Noah's Ark Lab</a>, Machine Learning Engineer Intern.
++ [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Noah's Ark Lab</a>, Machine Learning Engineer Intern.
 + [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, Machine Learning Research Intern.
 + [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, Machine Learning Engineer Intern.
 
