@@ -58,10 +58,11 @@ Here are some of my representative works:
 
 See my <a href='https://scholar.google.com/citations?user=kvTOYG8AAAAJ&hl=en'>Google Scholar</a> for the full list of my publications.
 
-⚙️ Service and Others
+⚙️ Academic Services
 ------
++ [09/2025~10/2025] Paper reviewer for the ICLR'26 main conference.
 + [09/2025~12/2025] Course grader for EECS-553 (Machine Learning) at University of Michigan.
-+ [02/2025~03/2025] Paper reviewer at the ICLR 2025 Workshop on Reasoning and Planning for LLMs.
++ [02/2025~03/2025] Paper reviewer for the ICLR'25 Workshop on Reasoning and Planning for LLMs.
 
 
 <!-- The 2D map -->
