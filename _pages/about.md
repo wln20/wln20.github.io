@@ -61,7 +61,6 @@ See my <a href='https://scholar.google.com/citations?user=kvTOYG8AAAAJ&hl=en'>Go
 ⚙️ Academic Services
 ------
 + [09/2025~10/2025] Paper reviewer for the ICLR'26 main conference.
-+ [09/2025~12/2025] Course grader for EECS-553 (Machine Learning) at University of Michigan.
 + [02/2025~03/2025] Paper reviewer for the ICLR'25 Workshop on Reasoning and Planning for LLMs.
 
 
