@@ -31,11 +31,11 @@ I've had several internship experiences. See my <a href="https://docs.google.com
 
 📖 Research
 ------
-I mainly focused on infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past research, including the compression and acceleration techniques of LLMs. 
+I mainly focused on infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past research at Tsinghua, including the compression and acceleration techniques of LLMs. 
 
 + [09/2022~06/2024] <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC, Tsinghua University</a>.
 
-Aside from that, I also have some experiences on LLM reasoning, LLM agents, Biomedical LLMs, etc. 
+Aside from that, I also have some research experiences on Biomedical LLMs and Multimodal LLMs at UMich. 
 
 I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or send me a message on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
@@ -52,9 +52,10 @@ Here are some of my representative works:
 + [(Preprint, Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a> 
 -->
 
-+ [NeurIPS ENLSP Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, Shiyao Li, Xuefei Ning, Zhihang Yuan, Shengen Yan, Guohao Dai, Yu Wang.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
-+ [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, Tengxuan Liu, Xiangsheng Shi, Shengen Yan, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
-+ [NeurIPS ENLSP Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, Xiuhong Li, Kai Zhong, Guohao Dai, Huazhong Yang, Yu Wang.* <a href='https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F5c805adc-b555-499f-9882-5ca35ce674b5.pdf'>[pdf]</a> 
++ [ACL'25] **MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**. *Hsin-Ling Hsu\*, Cong-Tinh Dao\*, **Luning Wang**, et al*
++ [NeurIPS ENLSP Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, et al.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
++ [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, et al.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
++ [NeurIPS ENLSP Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, et al.* <a href='https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F5c805adc-b555-499f-9882-5ca35ce674b5.pdf'>[pdf]</a> 
 
 See my <a href='https://scholar.google.com/citations?user=kvTOYG8AAAAJ&hl=en'>Google Scholar</a> for the full list of my publications.
 
