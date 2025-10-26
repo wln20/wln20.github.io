@@ -52,7 +52,7 @@ Here are some of my representative works:
 + [(Preprint, Under review)] **A Survey on Efficient Inference for Large Language Models**. *Zixuan Zhou\*, Xuefei Ning\*, Ke Hong\*, Tianyu Fu, Jiaming Xu, Shiyao Li, Yuming Lou, **Luning Wang**, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang.* <a href='https://arxiv.org/pdf/2404.14294.pdf'>[pdf]</a> 
 -->
 
-+ [ACL'25] **MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**. *Hsin-Ling Hsu\*, Cong-Tinh Dao\*, **Luning Wang**, et al*
++ [ACL'25] **MedPlan:A Two-Stage RAG-Based System for Personalized Medical Plan Generation**. *Hsin-Ling Hsu\*, Cong-Tinh Dao\*, **Luning Wang**, et al.* <a href='https://arxiv.org/pdf/2503.17900'>[pdf]<a>
 + [NeurIPS ENLSP Workshop'24] **CSKV: Training-Efficient Channel Shrinking for KV Cache in Long-Context Scenarios**. ***Luning Wang**, et al.* <a href='https://arxiv.org/pdf/2409.10593'>[pdf]</a> <a href='https://github.com/wln20/CSKV'>[github]</a>
 + [ICML'24] **Evaluating Quantized Large Language Models**. *Shiyao Li, Xuefei Ning, **Luning Wang**, et al.* <a href='https://arxiv.org/pdf/2402.18158.pdf'>[pdf]</a> <a href='https://github.com/thu-nics/qllm-eval/tree/main'>[github]</a>
 + [NeurIPS ENLSP Workshop'23] **LLM-MQ: Mixed-precision Quantization for Efficient LLM Deployment**. *Shiyao Li, Xuefei Ning, Ke Hong, Tengxuan Liu, **Luning Wang**, et al.* <a href='https://nicsefc.ee.tsinghua.edu.cn/%2Fnics_file%2Fpdf%2F5c805adc-b555-499f-9882-5ca35ce674b5.pdf'>[pdf]</a> 
