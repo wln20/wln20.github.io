@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I got my Bachelor's degree at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, working with <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC</a>.
+Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I got did my undergrad at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, working with <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC lab</a>.
+
+I mainly focused on the infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past works. Aside from that, I’m also learning related AI techs like RL and Multimodal/Diffusion Models.
+
+I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
 
 🎓 Education
@@ -21,17 +25,11 @@ Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='ht
 💻 Internship
 ------
 
-+ [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Noah's Ark Lab</a>, Machine Learning Engineer Intern.
++ [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Huawei Noah's Ark Lab</a>, Machine Learning Engineer Intern.
 + [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, Machine Learning Research Intern.
-+ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, Machine Learning Engineer Intern.
++ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance</a>, Machine Learning Engineer Intern.
 
 See my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
-
-📖 Research
-------
-I mainly focused on infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past research, including the compression and acceleration techniques of LLMs. Aside from that, I also have some experiences on Biomedical LLMs and Multimodal LLMs. 
-
-I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
 
 <a id='pub'></a>
