@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Luning Wang (王麓宁), currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I got did my undergrad at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, working with <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC lab</a>.
+Hi! I'm Luning Wang, currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I did my undergrad at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, working with <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC lab</a>.
 
-I mainly focused on the infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past works. Aside from that, I’m also learning related AI techs like RL and Multimodal/Diffusion Models.
+I mainly focused on the infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past works. Aside from that, I’m also learning related AI techs like RL and Multimodal/Diffusion Models. 
 
 I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
