@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "CV"
     url: https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf
