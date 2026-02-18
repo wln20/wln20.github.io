@@ -1,11 +1,34 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+  <!-- 你可以在这里加你自己的 CSS 链接 -->
+  <style>
+    body {
+      margin: 0;
+      padding: 1rem;
+      font-family: Arial, sans-serif;
+    }
+    .pdf-container {
+      width: 100%;
+      height: 90vh;
+    }
+  </style>
 </head>
 <body>
+
   <h1>{{ page.title }}</h1>
-  <object data="{{ page.pdf }}" width="100%" height="800px"></object>
+
+  {% if page.pdf %}
+    <div class="pdf-container">
+      <object data="{{ page.pdf }}" type="application/pdf" width="100%" height="100%">
+        <p>你的浏览器不支持 PDF 显示。请 <a href="{{ page.pdf }}">点击这里下载 PDF</a>.</p>
+      </object>
+    </div>
+  {% else %}
+    <p>未找到 PDF 文件。</p>
+  {% endif %}
+
 </body>
 </html>
