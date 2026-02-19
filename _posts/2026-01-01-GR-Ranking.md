@@ -1,7 +1,7 @@
 ---
 title: '生成式排序-经典论文笔记'
 date: 2026-01-01
-permalink: /posts/2026/01/GR_Ranking/
+permalink: /posts/2026/01/GR-Ranking/
 tags:
   - 生成式推荐
   - 生成式排序
