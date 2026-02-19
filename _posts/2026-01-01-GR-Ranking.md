@@ -15,3 +15,4 @@ tags:
 - <a href="/post_html/GR-Ranking/GenRank.html">生成式排序 —— 小红书 GenRank 精读笔记</a>（2025.05）
 - <a href="/post_html/GR-Ranking/MTGR.html">生成式排序 —— 美团 MTGR 精读笔记</a>（2025.05）
 
+注：本部分主要关注的是在范式上将判别式打分任务转化为生成式范式的工作，如HSTU中将“预测target item的得分”重构为“预测target item的下一个action”。
