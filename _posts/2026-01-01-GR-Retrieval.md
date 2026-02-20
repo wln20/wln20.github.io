@@ -3,7 +3,7 @@ title: '生成式召回——论文精读笔记合集'
 date: 2026-01-01
 permalink: /posts/2026/01/GR_Retrieval/
 tags:
-  - 生成式推荐
+  - 推荐系统
   - 生成式召回
 ---
 
