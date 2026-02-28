@@ -1,5 +1,5 @@
 ---
-title: '推荐系统超长序列建模——论文精读笔记合集'
+title: '长序列建模——论文精读笔记合集'
 date: 2026-01-01
 permalink: /posts/2026/01/GR_LongSeq/
 tags:
