@@ -13,4 +13,5 @@ tags:
 
 - <a href="/post_html/GR-LongSeq/SIM.html">超长序列建模 —— 阿里 SIM 精读笔记</a>（2020）
 - <a href="/post_html/GR-LongSeq/LONGER.html">超长序列建模 —— 字节 LONGER 精读笔记</a>（2025.05）
+- <a href="/post_html/GR-LongSeq/STCA.html">超长序列建模 —— 字节 STCA 精读笔记</a> (2026.01)
 - <a href="/post_html/GR-LongSeq/GEMs.html">超长序列建模 —— 快手 GEMs 精读笔记</a>（2026.02）
