@@ -12,6 +12,7 @@ tags:
 本部分将持续更新生成式排序相关工作的精读笔记：
 
 - <a href="/post_html/GR-Ranking/HSTU.html">生成式排序 —— Meta HSTU 精读笔记</a>（2024.02）
+- <a href="/post_html/GR-Ranking/HLLM.html">生成式排序 —— 字节 HLLM 精读笔记</a> (2024.09)
 - <a href="/post_html/GR-Ranking/GenRank.html">生成式排序 —— 小红书 GenRank 精读笔记</a>（2025.05）
 - <a href="/post_html/GR-Ranking/MTGR.html">生成式排序 —— 美团 MTGR 精读笔记</a>（2025.05）
 
