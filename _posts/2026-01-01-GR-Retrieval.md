@@ -13,5 +13,6 @@ tags:
 
 - <a href="/post_html/GR-Retrieval/SASREC.html">生成式召回 —— SASRec 精读笔记</a>（2018）
 - <a href="/post_html/GR-Retrieval/TIGER.html">生成式召回 —— Google TIGER 精读笔记</a>（2023）
+- <a href="/post_html/GR-Retrieval/COBRA.html">生成式召回 —— 百度 COBRA 精读笔记</a>（2025.03）
 
 
