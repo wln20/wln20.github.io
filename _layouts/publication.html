@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <title>{{ page.title }}</title>
+
+  <!-- Google Scholar Metadata -->
+  <meta name="citation_title" content="{{ page.title }}">
+
+  {% for author in page.authors %}
+  <meta name="citation_author" content="{{ author }}">
+  {% endfor %}
+
+  <meta name="citation_publication_date" content="{{ page.year }}">
+
+  <meta name="citation_pdf_url"
+        content="https://wln20.github.io{{ page.pdf_url }}">
+
+  {% if page.abstract %}
+  <meta name="description" content="{{ page.abstract }}">
+  {% endif %}
+</head>
+
+<body>
+  <h1>{{ page.title }}</h1>
+
+  <p>
+    <strong>Authors:</strong>
+    {{ page.authors | join: ", " }}
+  </p>
+
+  <p>
+    <strong>Year:</strong>
+    {{ page.year }}
+  </p>
+
+  <p>
+    <a href="{{ page.pdf_url }}">Download PDF</a>
+  </p>
+
+  <h2>Abstract</h2>
+
+  <p>
+    {{ page.abstract }}
+  </p>
+
+  {{ content }}
+
+</body>
+</html>
