@@ -9,6 +9,11 @@ layout: compress
   <head>
     <meta name="google-site-verification" content="7ZUH1ocWRYqW06CiRP96gWizd6pmWt7Y0TgNAAtD3UM" />
     {% include head.html %}
+  
+    {% if page.scholar %}
+      {% include scholar_meta.html %}
+    {% endif %}
+  
     {% include head/custom.html %}
   </head>
 
