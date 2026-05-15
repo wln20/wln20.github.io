@@ -1,5 +1,7 @@
 ---
-layout: publication
+layout: default
+
+scholar: true
 
 title: "Collaborative Reasoning: Multi-Agent Small Models for Complex Mathematic Reasoning Tasks"
 
@@ -49,5 +51,3 @@ abstract: >
 
 permalink: /publications/small_model_reasoning/
 ---
-
-This page hosts the paper PDF for Google Scholar indexing.
