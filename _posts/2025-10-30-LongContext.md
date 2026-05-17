@@ -89,8 +89,14 @@ $$
   结合了attention scale和NTK-by-parts。前者是在attention计算时，在scale因子（也即推理长度$L'$和训练长度$L$的比值）上引入一个和缩放因子（也即文本长度）有关的温度因子$t$，来动态调节注意力机制：
   
   $$
-  softmax(\frac{q_mk^T_n}{t\sqrt{d}})\\
-  \sqrt{\frac{1}{t}}=0.1\ln(s)+1\\
+  a=\text{softmax}(\frac{q_mk^T_n}{t\sqrt{d}})
+  $$
+
+  $$
+  \sqrt{\frac{1}{t}}=0.1\ln(s)+1
+  $$
+
+  $$
   s=\frac{L'}{L}
   $$
   
@@ -120,9 +126,7 @@ $$
   q_m^TR_m^TR_nk_n\to q_m^TR_m^TR_nk_n+a^TR_m^TR_nb
   $$
   
-  其中$a,b$为两个可学习参数。可以证明$a^TR_m^TR_nb$呈现出关于$|m-n|$递减的趋势，可以起到局部注意力的作用
-
-  为了使得公式优雅，避免直接在attention矩阵上进行额外加项，进一步改进为在权重$W_q,W_k$处分别添加一个bias项$a,b$（之前的工作大多认为bias在模型足够大时没什么用，所以主流模型的权重都不带bias），在计算量几乎不变下使得attention变成：
+  其中$a,b$为两个可学习参数。可以证明$a^TR_m^TR_nb$呈现出关于$\|m-n\|$递减的趋势，可以起到局部注意力的作用。为了使得公式优雅，避免直接在attention矩阵上进行额外加项，进一步改进为在权重$W_q,W_k$处分别添加一个bias项$a,b$（之前的工作大多认为bias在模型足够大时没什么用，所以主流模型的权重都不带bias），在计算量几乎不变下使得attention变成：
   
   $$
   q_m^TR_m^TR_nk_n\to (q_m+a)^TR_m^TR_n(k_n+b)
