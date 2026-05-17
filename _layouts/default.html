@@ -18,16 +18,21 @@ layout: compress
 
   {% if page.math %}
   <script>
-    window.MathJax = {
-      tex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']],
-        displayMath: [['$$', '$$'], ['\\[', '\\]']],
-        processEscapes: true
-      },
-      svg: {
-        fontCache: 'global'
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true,
+  
+      packages: {
+        '[+]': ['color']
       }
-    };
+    },
+  
+    svg: {
+      fontCache: 'global'
+    }
+  };
   </script>
 
   <script
