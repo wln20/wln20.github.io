@@ -39,3 +39,22 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.sidebar__right {
+  width: 260px;
+}
+
+.toc__menu {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.toc__menu li {
+  margin-bottom: 0.3rem;
+}
+
+.sidebar__right.sticky {
+  top: 2em;
+  max-height: 90vh;
+  overflow-y: auto;
+}
