@@ -2,6 +2,7 @@
 title: '大模型的长文本问题：算法侧与系统侧优化方案'
 date: 2025-10-30
 permalink: /posts/2025/10/LongContext/
+math: true
 tags:
   - 大模型
   - 长文本
