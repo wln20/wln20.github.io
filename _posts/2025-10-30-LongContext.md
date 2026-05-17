@@ -1,4 +1,5 @@
 ---
+layout: single
 title: '大模型位置编码与长文本：算法侧与系统侧优化'
 date: 2025-10-30
 permalink: /posts/2025/10/LongContext/
