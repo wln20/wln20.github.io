@@ -1,11 +1,8 @@
 ---
-layout: single
 title: '大模型位置编码与长文本：算法侧与系统侧优化'
 date: 2025-10-30
 permalink: /posts/2025/10/LongContext/
 math: true
-toc: true
-toc_sticky: true
 tags:
   - 大模型
   - 长文本
@@ -13,6 +10,7 @@ tags:
 
 长文本情境下，大模型面临了来自算法侧和系统侧的双重挑战：文本过长时不仅会导致模型生成质量下降，还会导致推理成本急剧增加。这里针对这两个方面的挑战进行了分析，以及记录了一些常见的算法侧优化方法。
 
+{% include toc %}
 
 ## 1. 长文本模型的综合策略
 
