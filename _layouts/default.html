@@ -17,22 +17,18 @@ layout: compress
     {% include head/custom.html %}
 
   {% if page.math %}
+  
   <script>
   window.MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
+      packages: {'[+]': ['base', 'ams']}
+    },
   
-      packages: {
-        '[+]': [
-          'color',
-          'ams',
-          'boldsymbol',
-          'braket',
-          'cancel'
-        ]
-      }
+    loader: {
+      load: ['[tex]/color']
     },
   
     svg: {
@@ -40,12 +36,13 @@ layout: compress
     }
   };
   </script>
-
+  
   <script
     id="MathJax-script"
     async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
   </script>
+    
   {% endif %}
     
   </head>
