@@ -4,7 +4,6 @@ date: 2026-01-01
 permalink: /posts/2026/01/GR_Retrieval/
 tags:
   - 推荐系统
-  - 生成式召回
 ---
 
 生成式召回（Generative Retrieval）指的是利用生成式模型直接“预测/生成”用户可能感兴趣的候选项，而不是依赖传统的向量检索或基于特征匹配的召回机制。
