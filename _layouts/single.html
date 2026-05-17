@@ -17,20 +17,6 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
   
-  {% if page.toc %}
-    <aside class="sidebar__right sticky">
-      <nav class="toc">
-        <header>
-          <h4 class="nav__title">
-            <i class="fas fa-bars"></i> Contents
-          </h4>
-        </header>
-  
-        {% include toc.html html=content sanitize=true class="toc__menu" h_min=1 h_max=3 %}
-      </nav>
-    </aside>
-  {% endif %}
-
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
