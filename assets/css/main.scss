@@ -40,21 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.sidebar__right {
-  width: 260px;
+#markdown-toc {
+  border-left: 3px solid #e6e6e6;
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+  line-height: 1.7;
 }
 
-.toc__menu {
-  font-size: 0.9rem;
-  line-height: 1.6;
-}
-
-.toc__menu li {
+#markdown-toc li {
   margin-bottom: 0.3rem;
 }
 
-.sidebar__right.sticky {
-  top: 2em;
-  max-height: 90vh;
-  overflow-y: auto;
+#markdown-toc a {
+  text-decoration: none;
 }
