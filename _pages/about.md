@@ -10,9 +10,9 @@ redirect_from:
 
 Hi! I'm Luning Wang, currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I did my undergrad at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, working with <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC lab</a>.
 
-I mainly focused on the infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past works. Aside from that, I’m also looking into some other AI techs like RL and GR. I'd casually put some of my notes for classic/new works in my <a href="https://wln20.github.io/year-archive/">Blog Posts</a>, hope that could help as a reference if you're also interested in related topics.
+I mainly focused on the infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past works. Aside from that, I was also looking into some other AI techs like RL and MLLMs. I'd casually put some of my study notes for new works in my <a href="https://wln20.github.io/blog/">Blog Posts</a>, hope that could help as a reference if you're also interested in related topics.
 
-I’m currently open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
+I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
 
 🎓 Education
