@@ -15,4 +15,5 @@
   {:toc}
   ```
   后续可通过`##`、`###`等md中的目录来对应章节
+- posts：若摘要段无法在博客主页正常显示，则将摘要内容手动放到md文件开头的`excerpt: "..."`中
 - publications：仿照`./publications/`下的md文件
