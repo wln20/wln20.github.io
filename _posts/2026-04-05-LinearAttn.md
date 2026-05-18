@@ -20,6 +20,8 @@ tags:
 {:toc}
 
 
+
+
 ## 线性注意力基础
 
 
@@ -378,30 +380,19 @@ S_t=S_{t-1}(\textcolor{red}{\alpha_t}(I-\beta_t k_tk_t^T)+\beta_t v_tk_t^T
 $$
 
 
-
-> 可见，其融合了Mamba2的更新公式：
-
-> $$
-
-
-
-> S_t=\alpha_t S_{t-1}+v_tk_t^T
-
->
-
+可见，其融合了Mamba2的更新公式：
 
 $$
 
-> 和DeltaNet的更新公式：
+S_t=\alpha_t S_{t-1}+v_tk_t^T
 
-> $$
+$$
 
+和DeltaNet的更新公式：
 
+$$
 
-> S_t=S_{t-1}(I-\beta_t k_tk_t^T)+\beta_t v_tk_t^T
-
->
-
+S_t=S_{t-1}(I-\beta_t k_tk_t^T)+\beta_t v_tk_t^T
 
 $$
 
