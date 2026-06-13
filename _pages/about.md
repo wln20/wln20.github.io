@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Luning Wang, currently a Master's student at the <a href='https://umich.edu/'>University of Michigan</a>. Before that, I did my undergrad at <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, working with <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC lab</a>.
+Hi! This is Luning Wang (王麓宁)'s homepage. I'm currently working on Large Recommendation Models & Generative Recommendation at ByteDance Douyin Group as a full-time algorithm engineer. 
 
-I mainly focused on the infrastructure and efficiency optimization of Large Language Models (a.k.a MLSys or AI-Infra) in my past works. Aside from that, I was also looking into some other AI techs like RL and MLLMs. I'd casually put some of my study notes for new works in my <a href="https://wln20.github.io/blog/">Blog Posts</a>, hope that could help as a reference if you're also interested in related topics.
+I mainly focused on the infrastructure and efficiency optimization of Large Language Models in my past work. I had experience on optimizing LLMs with techniques like quantization, kv-cache compression and speculative decoding. I've also done works related to LLM Systems, in which I gained experience of working on vLLM and parallel computing. Furthermore, I've been exploring the application of LLMs in the field of biomedical engineering for some time at UofM.
 
-I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
+I’d casually put my notes for new works & casual thoughts in my blog posts, hope that could help as a reference if you’re also interested in related topics. I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
+
 
 
 🎓 Education
@@ -20,16 +21,28 @@ I’m open to discussion and collaboration. Feel free to drop me an <a href='mai
 + [08/2024~05/2026] M.S. Department of Electrical and Computer Engineering, University of Michigan
 + [09/2020~06/2024] B.Eng. Department of Electronic Engineering, Tsinghua University
 
+
 <a id='intern'></a>
 
-💻 Internship
+💻 Work Experience
 ------
++ [06/2026~Now] <a href='https://www.bytedance.com/'>ByteDance (Douyin)</a>, AI Algorithm Engineer.
++ [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Huawei (Noah's Ark Lab)</a>, AI System Engineer (Intern).
++ [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, AI Algorithm Engineer (Intern).
++ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, AI Algorithm Engineer (Intern).
 
-+ [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Huawei Noah's Ark Lab</a>, Machine Learning Engineer Intern.
-+ [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, Machine Learning Research Intern.
-+ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance</a>, Machine Learning Engineer Intern.
+See my <a href="https://wln20.github.io/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
 
-See my <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wln20/wln20.github.io/master/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
+
+📚 Research Experience
+------
++ [01/2025~10/2025] Independent Researcher at <a href='https://ece.engin.umich.edu/'>Dept of ECE, UofM</a>
+  + Collaborator: <a href='https://www.linkedin.com/in/chenwei-wu-498a3515a'>Chenwei Wu</a>, <a href='https://zitao-shuai.github.io/'>Zitao Shuai</a>, <a href='https://www.linkedin.com/in/zhengxu-tang-01049319a'>Zhengxu Tang</a>, <a href='https://www.jun-ending.com/'>Jun-En Ding</a>, <a href='https://justin-code.com/'>Hsin-Ling Hsu</a>.
+
++ [09/2022~06/2024] Undergrad Research Assisstant at <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC lab, Dept of EE, THU</a>
+  + Advisor: <a href="https://web.ee.tsinghua.edu.cn/wangyu/en/index.htm">Prof. Yu Wang</a>, <a href="https://nics-effalg.com/ningxuefei/">Dr. Xuefei Ning</a>
+  + Project Supervisor: <a href="https://nicsefc.ee.tsinghua.edu.cn/people/ShiyaoLi">Dr. Shiyao Li</a>
+
 
 
 <a id='pub'></a>
