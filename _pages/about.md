@@ -12,7 +12,7 @@ Hi! This is Luning Wang (王麓宁)'s homepage. I'm currently working on Large R
 
 I mainly focused on the infrastructure and efficiency optimization of Large Language Models in my past work. I had experience on optimizing LLMs with techniques like quantization, kv-cache compression and speculative decoding. I've also done works related to LLM Systems, in which I gained experience of working on vLLM and parallel computing. Furthermore, I've been exploring the application of LLMs in the field of biomedical engineering for some time at UofM.
 
-I’d casually put my notes for new works & casual thoughts in my blog posts, hope that could help as a reference if you’re also interested in related topics. I’m open to discussion and collaboration. Feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
+I’d casually put my notes for new works & random thoughts in my <a href='https://wln20.github.io/blog/'>blog posts</a>, hope that could help as a reference if you’re also interested in related topics. I’m open to discussion and collaboration, feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
 
 
