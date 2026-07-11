@@ -8,35 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-Hi! This is Luning Wang (王麓宁)'s homepage. I'm currently working on Large Recommendation Models & Generative Recommendation at ByteDance Douyin Group as a full-time algorithm engineer. 
+Hi! This is Luning Wang (王麓宁)'s homepage :)
 
-I mainly focused on the infrastructure and efficiency optimization of Large Language Models in my past work. I had experience on optimizing LLMs with techniques like quantization, kv-cache compression and speculative decoding. I've also done works related to LLM Systems, in which I gained experience of working on vLLM and parallel computing. Furthermore, I've been exploring the application of LLMs in the field of biomedical engineering for some time at UofM.
+I’m currently working on Large Recommendation Models & Generative Recommendation at ByteDance Douyin Group as a full-time algorithm engineer. We are dedicated to exploring the application of frontier LLM technologies in recommender systems, and collaboratively driving the practical deployment of next-generation recommender systems in fields like short-video recommendation, at both algorithmic and system levels.
+
+我目前就职于字节跳动抖音集团，工作内容为推荐大模型与生成式推荐的相关研究。我们致力于探索前沿大模型技术在推荐系统中的应用，并在算法与系统层面协同推动下一代推荐系统在短视频推荐等领域的落地。
+
+I mainly focused on the efficiency optimization of Large Language Models in my past research. I had experience on optimizing LLMs with techniques like quantization, kv-cache compression and speculative decoding. I’ve also done works related to AI Systems, in which I gained experience of working on vLLM and parallel computing.
+
+我过去的研究主要聚焦于大语言模型的推理优化。我具有通过低比特量化、kv-cache压缩、投机解码等技术优化大模型推理效率的经验。我还做过一些和AI推理系统有关的工作，并获得了和vLLM与并行化计算有关的开发经验。
 
 I’d casually put my notes for new works & random thoughts in my <a href='https://wln20.github.io/blog/'>blog posts</a>, hope that could help as a reference if you’re also interested in related topics. I’m open to discussion and collaboration, feel free to drop me an <a href='mailto:wangluning2@gmail.com'>Email</a> or reach out on <a href="https://www.linkedin.com/in/wangluning/">LinkedIn</a>!
 
+我平时会不定期地在<a href='https://wln20.github.io/blog/'>博客</a>中分享一些新技术学习笔记和个人想法随笔，希望能为对相关话题感兴趣的同学提供一些参考。我期待能认识些新朋友，欢迎通过<a href='mailto:wangluning2@gmail.com'>个人邮箱</a>或<a href="https://www.linkedin.com/in/wangluning/">领英</a>找我聊聊！
 
 
 🎓 Education
 ------
-+ [08/2024~05/2026] M.S. Department of Electrical and Computer Engineering, University of Michigan
-+ [09/2020~06/2024] B.Eng. Department of Electronic Engineering, Tsinghua University
++ [08/2024~05/2026] M.S. Department of Electrical and Computer Engineering, University of Michigan （密歇根大学 ECE 硕士）
++ [09/2020~06/2024] B.Eng. Department of Electronic Engineering, Tsinghua University （清华大学 电子工程系 本科）
 
 
 <a id='intern'></a>
 
 💻 Work Experience
 ------
-+ [06/2026~Now] <a href='https://www.bytedance.com/'>ByteDance (Douyin)</a>, AI Algorithm Engineer.
-+ [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Huawei (Noah's Ark Lab)</a>, AI System Engineer (Intern).
-+ [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, AI Algorithm Engineer (Intern).
-+ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, AI Algorithm Engineer (Intern).
++ [06/2026~Now] <a href='https://www.bytedance.com/'>ByteDance (Douyin)</a>, AI Algorithm Engineer （字节跳动-抖音集团 AI算法工程师）
++ [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Huawei (Noah's Ark Lab)</a>, AI System Engineer (Intern) （华为-诺亚方舟实验室 AI系统工程实习生）
++ [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, AI Algorithm Engineer (Intern) （无问芯穹 AI算法实习生）
++ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, AI Algorithm Engineer (Intern) （字节跳动-TikTok AI算法实习生）
 
 See my <a href="https://wln20.github.io/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
 
 
 📚 Research Experience
 ------
-+ [01/2025~10/2025] Independent Researcher at <a href='https://ece.engin.umich.edu/'>Dept of ECE, UofM</a>
++ [01/2025~10/2025] Graduate Student Researcher at <a href='https://ece.engin.umich.edu/'>Dept of ECE, UofM</a>
   + Collaborator: <a href='https://www.linkedin.com/in/chenwei-wu-498a3515a'>Chenwei Wu</a>, <a href='https://zitao-shuai.github.io/'>Zitao Shuai</a>, <a href='https://www.linkedin.com/in/zhengxu-tang-01049319a'>Zhengxu Tang</a>, <a href='https://www.jun-ending.com/'>Jun-En Ding</a>, <a href='https://justin-code.com/'>Hsin-Ling Hsu</a>.
 
 + [09/2022~06/2024] Undergrad Research Assisstant at <a href='https://nicsefc.ee.tsinghua.edu.cn/'>NICS-EFC lab, Dept of EE, THU</a>
