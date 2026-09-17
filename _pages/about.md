@@ -10,9 +10,9 @@ redirect_from:
 
 Hi! This is Luning Wang (王麓宁)'s homepage :)
 
-I’m currently working on Large Recommendation Models & Generative Recommendation at ByteDance Douyin Group as a full-time algorithm engineer. We are dedicated to exploring the application of frontier LLM technologies in recommender systems, and collaboratively driving the practical deployment of next-generation recommender systems in fields like short-video recommendation, at both algorithmic and system levels.
+I’m currently working on Large Recommendation Models at ByteDance Douyin Group as a full-time algorithm engineer. We are dedicated to exploring the application of frontier LLM technologies in recommender systems, and collaboratively driving the practical deployment of next-generation recommender systems at both algorithmic and system levels.
 
-我目前就职于字节跳动抖音集团，工作内容为推荐大模型与生成式推荐的相关研究。我们致力于探索前沿大模型技术在推荐系统中的应用，并在算法与系统层面协同推动下一代推荐系统在短视频推荐等领域的落地。
+我目前就职于字节跳动AML，工作内容为推荐大模型训推优化的相关研究。我们致力于探索前沿大模型技术在推荐系统中的应用，并在算法与系统层面协同推动下一代推荐系统的落地。
 
 I mainly focused on the efficiency optimization of Large Language Models in my past research. I had experience on optimizing LLMs with techniques like quantization, kv-cache compression and speculative decoding. I’ve also done works related to AI Systems, in which I gained experience of working on vLLM and parallel computing.
 
@@ -33,10 +33,10 @@ I’d casually put my notes for new works & random thoughts in my <a href='https
 
 💻 Work Experience
 ------
-+ [06/2026~Now] <a href='https://www.bytedance.com/'>ByteDance (Douyin)</a>, AI Algorithm Engineer （字节跳动-抖音集团 AI算法工程师）
++ [06/2026~Now] <a href='https://www.bytedance.com/'>ByteDance (Douyin)</a>, AI Algorithm Engineer （字节跳动-AML 算法工程师）
 + [04/2025~08/2025] <a href='https://www.noahlab.com.hk/'>Huawei (Noah's Ark Lab)</a>, AI System Engineer (Intern) （华为-诺亚方舟实验室 AI系统工程实习生）
-+ [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, AI Algorithm Engineer (Intern) （无问芯穹 AI算法实习生）
-+ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, AI Algorithm Engineer (Intern) （字节跳动-TikTok AI算法实习生）
++ [02/2024~06/2024] <a href='https://www.infini-ai.com/'>Infinigence AI</a>, AI Algorithm Engineer (Intern) （无问芯穹 算法实习生）
++ [09/2023~01/2024] <a href='https://www.bytedance.com/'>ByteDance (TikTok)</a>, AI Algorithm Engineer (Intern) （字节跳动-TikTok 算法实习生）
 
 See my <a href="https://wln20.github.io/files/CV-Luning%20Wang.pdf">CV</a> for more details of my work.
 
@@ -72,6 +72,6 @@ See my <a href='https://scholar.google.com/citations?user=kvTOYG8AAAAJ&hl=en'>Go
 
 
 <!-- The 2D map -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=MGz7IyAo6Aq5C1YhqhV1cKtNKrQKJ9oFEVwELNdOc_U&cl=ffffff&w=a"></script> -->
 
 
